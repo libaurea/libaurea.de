@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>Wolfram|Alpha</ShortName>
+    <Description>Wolfram|Alpha is a unique engine for computing answers and providing knowledge.</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHUlEQVR4AaXTA2inYRzA8bNt25d5DGdsudnKzUaYt+xmhRlhCEOal2fbNp59q7+N6vP6ffDDkd8+FloJryNHcVzXN/oG+AIngwfg45NwwEdcRzn68RbP4YZbugY4jgIsoAEbEGhCP7pwT98KUiG0aMVttQF4eAVBKMck9jCGIQxLbGIVNUjAc8UBTiEGBxAYx1c8w3O8QR2ERIU0ForLP4cSCGygGqUS5ZiCQBdeqsWAh5/QDYEZOOEP/sISLRBYhCOOKm7hGgqxBYElJCMM4YhSGHwPrXivOMBJPMF31EBo0QtrvMM5jZXIiywI7ECoXHfgsq46OIU0pMIZg9iAH2JRhQf6KvEOjkvuw5GH05L7OzhjTDNdxyP9zWSGQzPRjZWCBCkjAAAAAElFTkSuQmCC</Image>
+    <Url type="text/html" template="https://www.wolframalpha.com/input/?i={searchTerms}" />
+    <moz:SearchForm>https://www.wolframalpha.com</moz:SearchForm>
+</OpenSearchDescription>

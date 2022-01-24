@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <ShortName>DeepL</ShortName>
+    <Description>DeepL translates texts &amp; full document files instantly.</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABDElEQVR4AZXTs0JFYQDA8TzdXqD5asmasvEC2bW2ZT9BNtbsLe55zratr3++vvcMv+PzP/ysInJj9VipwmXIxjo2kAOZoWN1T7SBPwZwD/HjHkMIhK3BADtUqMMZhBHnqIdaK8AGBZYhfsyiB49GQitQaAZCNQ6+gi8cMG4k8IhQ3cADBF7RiIwfNdjDOd4g8GA0oOMEjYiCK4akBl6whjI4otWSwDsm0Yx8VOEQy7gzGtB4iRfwtlaEWTNvwpPxl2j4M76hCUW4hDBgGQrdH0mNepyb+ZEaoDb8K6sjbNkZhFEDt36LeCtVhI3mOaYGUzLmNQJncDE+mAyHnFCMLZzDTVJAI+SDLkN38AFk9hhktfxN5gAAAABJRU5ErkJggg==</Image>
+    <Url type="text/html" template="https://www.deepl.com/translator#../en/{searchTerms}" />
+    <moz:SearchForm>https://www.deepl.com/translator</moz:SearchForm>
+</OpenSearchDescription>
